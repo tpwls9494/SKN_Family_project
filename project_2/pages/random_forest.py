@@ -17,14 +17,11 @@ def load_model_and_metrics():
 # 데이터 전처리 함수
 def preprocess_input(data):
     scaler = StandardScaler()
-    # 실제 데이터의 전처리 로직을 여기에 구현
     return scaler.fit_transform(data)
 
 
 # 페이지 설정
 st.set_page_config(page_title="Random Forest", page_icon="🌲")
-
-# 데이터 로드 (실제로는 캐싱 사용)
 
 # 모델과 메트릭스 로드
 model, metrics = load_model_and_metrics()
