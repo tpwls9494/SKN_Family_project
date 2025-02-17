@@ -18,7 +18,7 @@ def main():
     st.markdown("""
     ### 📱 연구 배경
     삼성전자의 주가 변동이 갤럭시 사용자들의 브랜드 충성도에 미치는 영향을 분석하고자 했습니다.
-    특히 2022년과 2023년의 사용자 이탈 패턴을 심층적으로 분석하여, 어떤 요인들이 
+    특히 2021년, 2022년, 2023년의 사용자 이탈 패턴을 심층적으로 분석하여, 어떤 요인들이 
     브랜드 이탈에 영향을 미치는지 파악하고자 했습니다.
     """)
     
@@ -35,20 +35,18 @@ def main():
     with col1:
         st.subheader("📊 분석 데이터")
         st.metric("전체 분석 대상", f"{len(data):,}명")
-        st.metric("분석 기간", "2022-2023")
+        st.metric("분석 기간", "2021-2023")
     
     with col2:
         st.subheader("📈 이탈률 변화")
-        churn_22 = (data['brand_22'] != 1).mean()
-        churn_23 = (data['brand_23'] != 1).mean()
-        st.metric("2022년", f"{churn_22:.2%}")
-        st.metric("2023년", f"{churn_23:.2%}", 
-                 delta=f"{(churn_23-churn_22)*100:+.2f}%")
+        st.metric("2022년", f"{5.17}")
+        st.metric("2023년", f'{6.50}', 
+                 delta=f"{(0.0517 - 0.06502)*100:+.2f}%")
     
     with col3:
         st.subheader("🎯 예측 정확도")
-        st.metric("모델 정확도", "92.5%")
-        st.metric("이탈 예측률", "20.6%")
+        st.metric("모델 정확도", "71.1%")
+        st.metric("이탈 예측률", "24.1%")
     
     # 주요 분석 지표
     st.markdown("""
