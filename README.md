@@ -19,39 +19,39 @@
 
 ### Phase 1: 프로그래밍과 데이터 기초 (2024.12.18 ~ 2025.01.08)
 - **Python 프로그래밍**
-  - [기본 문법과 자료구조](./01_Python_Basics/01_basics.ipynb)
-  - [함수와 클래스](./01_Python_Basics/02_functions_classes.ipynb)
-  - [데이터 처리](./01_Python_Basics/03_data_processing.ipynb)
+  - [기본 문법과 자료구조](./python_basic-main/01_basic)
+  - [함수와 클래스](./python_basic-main/02_function)
+  - [데이터 처리](./python_basic-main/03_data_structure)
 - **데이터베이스**
-  - [SQL 기초](./02_Database/01_sql_basics.ipynb)
-  - [데이터 모델링](./02_Database/02_data_modeling.md)
+  - [SQL 기초](./database/01_sql_basics)
+  - [데이터 모델링](./database/02_data_modeling)
 - **웹 크롤링**
-  - [BeautifulSoup 활용](./03_Web_Crawling/01_beautifulsoup.ipynb)
-  - [Selenium 자동화](./03_Web_Crawling/02_selenium.ipynb)
-- **Mini Project**: [데이터 수집 및 저장 파이프라인](./Projects/01_Data_Pipeline/)
+  - [BeautifulSoup 활용](./web_crawling/01_beautifulsoup)
+  - [Selenium 자동화](./web_crawling/02_selenium)
+- **Mini Project**: [데이터 수집 및 저장 파이프라인](./project_1)
 
 ### Phase 2: 데이터 분석과 머신러닝, 딥러닝 (2025.01.09 ~ 2025.02.14)
 - **데이터 분석**
-  - [NumPy 기초](./04_Data_Analysis/01_numpy.ipynb)
-  - [Pandas 활용](./04_Data_Analysis/02_pandas.ipynb)
-  - [데이터 시각화](./04_Data_Analysis/03_visualization.ipynb)
+  - [NumPy 기초](./ML-WORKSPACE/01_numpy)
+  - [Pandas 활용](./ML-WORKSPACE/02_pandas)
+  - [데이터 시각화](./ML-WORKSPACE/03_visualization)
 - **머신러닝**
-  - [지도학습 알고리즘](./05_Machine_Learning/01_supervised.ipynb)
-  - [비지도학습 알고리즘](./05_Machine_Learning/02_unsupervised.ipynb)
-  - [모델 평가 및 최적화](./05_Machine_Learning/03_evaluation.ipynb)
+  - [지도학습 알고리즘](./ML-WORKSPACE/04_machine_learning)
+  - [비지도학습 알고리즘](./ML-WORKSPACE/04_machine_learning)
+  - [모델 평가 및 최적화](./ML-WORKSPACE/05_ensemble)
 - **딥러닝**
-  - [신경망 기초](./06_Deep_Learning/01_neural_networks.ipynb)
-  - [CNN 모델](./06_Deep_Learning/02_cnn.ipynb)
-  - [RNN 모델](./06_Deep_Learning/03_rnn.ipynb)
-- **Mini Project**: [이미지 분류 시스템](./Projects/02_Image_Classification/)
+  - [신경망 기초](./ML-WORKSPACE/06_deep_learning)
+  - [CNN 모델](./ML-WORKSPACE/06_deep_learning)
+  - [RNN 모델](./ML-WORKSPACE/06_deep_learning)
+- **Mini Project**: [이미지 분류 시스템](./project_2)
 
 ### Phase 3: 자연어 처리와 LLM (2025.02.17 ~ 현재 진행중)
 - **자연어 처리 기초**
-  - [텍스트 전처리](./07_NLP/01_text_preprocessing.ipynb)
-  - [워드 임베딩](./07_NLP/02_word_embeddings.ipynb)
+  - [텍스트 전처리](./nlp/01_basics)
+  - [워드 임베딩](./nlp/02_preprocessing)
 - **자연어 딥러닝** (진행중)
-  - [RNN/LSTM 모델](./07_NLP/03_rnn_lstm.ipynb)
-  - [Transformer 아키텍처](./07_NLP/04_transformers.ipynb)
+  - [RNN/LSTM 모델](./nlp/03_word_embedding)
+  - [Transformer 아키텍처](./nlp/04_sentiment_analysis)
 
 ### 예정된 학습 (Coming Soon)
 - **LLM과 프롬프트 엔지니어링** (3월)
@@ -61,7 +61,7 @@
 ## 🚀 프로젝트
 
 ### 1. 데이터 수집 및 저장 파이프라인 (2025.01)
-[프로젝트 폴더](./Projects/01_Data_Pipeline/) | [데모](링크)
+[프로젝트 폴더](./project_1) | [데모](링크)
 
 **개요**: 웹 크롤링을 통해 데이터를 수집하고, 전처리 후 데이터베이스에 저장하는 자동화 파이프라인 구축
 
@@ -79,7 +79,7 @@
 - 자동화 스크립트 개발과 에러 핸들링
 
 ### 2. 이미지 분류 시스템 (2025.02)
-[프로젝트 폴더](./Projects/02_Image_Classification/) | [데모](링크)
+[프로젝트 폴더](./project_2) | [데모](링크)
 
 **개요**: 딥러닝 모델을 활용한 이미지 분류 시스템 개발
 
