@@ -19,39 +19,39 @@
 
 ### Phase 1: 프로그래밍과 데이터 기초 (2024.12.18 ~ 2025.01.08)
 - **Python 프로그래밍**
-  - [기본 문법과 자료구조](./python_basic-main/01_basic)
-  - [함수와 클래스](./python_basic-main/02_function)
-  - [데이터 처리](./python_basic-main/03_data_structure)
+  - [기본 문법과 자료구조](https://github.com/tpwls9494/SKN_Family_project/tree/main/python_basic-main/01_basic)
+  - [함수와 클래스](https://github.com/tpwls9494/SKN_Family_project/tree/main/python_basic-main/02_function)
+  - [데이터 처리](https://github.com/tpwls9494/SKN_Family_project/tree/main/python_basic-main/03_data_structure)
 - **데이터베이스**
-  - [SQL 기초](./database/01_sql_basics)
-  - [데이터 모델링](./database/02_data_modeling)
+  - SQL 기초
+  - 데이터 모델링
 - **웹 크롤링**
-  - [BeautifulSoup 활용](./web_crawling/01_beautifulsoup)
-  - [Selenium 자동화](./web_crawling/02_selenium)
-- **Mini Project**: [데이터 수집 및 저장 파이프라인](./project_1)
+  - BeautifulSoup 활용
+  - Selenium 자동화
+- **Mini Project**: 데이터 수집 및 저장 파이프라인
 
 ### Phase 2: 데이터 분석과 머신러닝, 딥러닝 (2025.01.09 ~ 2025.02.14)
 - **데이터 분석**
-  - [NumPy 기초](./ML-WORKSPACE/01_numpy)
-  - [Pandas 활용](./ML-WORKSPACE/02_pandas)
-  - [데이터 시각화](./ML-WORKSPACE/03_visualization)
+  - [NumPy 기초](https://github.com/tpwls9494/SKN_Family_project/tree/main/ML-WORKSPACE/01_numpy)
+  - [Pandas 활용](https://github.com/tpwls9494/SKN_Family_project/tree/main/ML-WORKSPACE/02_pandas)
+  - [데이터 시각화](https://github.com/tpwls9494/SKN_Family_project/tree/main/ML-WORKSPACE/03_visualization)
 - **머신러닝**
-  - [지도학습 알고리즘](./ML-WORKSPACE/04_machine_learning)
-  - [비지도학습 알고리즘](./ML-WORKSPACE/04_machine_learning)
-  - [모델 평가 및 최적화](./ML-WORKSPACE/05_ensemble)
+  - [지도학습 알고리즘](https://github.com/tpwls9494/SKN_Family_project/tree/main/ML-WORKSPACE/04_machine_learning)
+  - [비지도학습 알고리즘](https://github.com/tpwls9494/SKN_Family_project/tree/main/ML-WORKSPACE/04_machine_learning)
+  - [모델 평가 및 최적화](https://github.com/tpwls9494/SKN_Family_project/tree/main/ML-WORKSPACE/05_ensemble)
 - **딥러닝**
-  - [신경망 기초](./ML-WORKSPACE/06_deep_learning)
-  - [CNN 모델](./ML-WORKSPACE/06_deep_learning)
-  - [RNN 모델](./ML-WORKSPACE/06_deep_learning)
-- **Mini Project**: [이미지 분류 시스템](./project_2)
+  - [신경망 기초](https://github.com/tpwls9494/SKN_Family_project/tree/main/ML-WORKSPACE/06_deep_learning)
+  - CNN 모델
+  - RNN 모델
+- **Mini Project**: [이미지 분류 시스템](https://github.com/tpwls9494/SKN_Family_project/tree/main/project_2)
 
 ### Phase 3: 자연어 처리와 LLM (2025.02.17 ~ 현재 진행중)
 - **자연어 처리 기초**
-  - [텍스트 전처리](./nlp/01_basics)
-  - [워드 임베딩](./nlp/02_preprocessing)
+  - [텍스트 전처리](https://github.com/tpwls9494/SKN_Family_project/tree/main/nlp/01_basics)
+  - [워드 임베딩](https://github.com/tpwls9494/SKN_Family_project/tree/main/nlp/02_preprocessing)
 - **자연어 딥러닝** (진행중)
-  - [RNN/LSTM 모델](./nlp/03_word_embedding)
-  - [Transformer 아키텍처](./nlp/04_sentiment_analysis)
+  - [RNN/LSTM 모델](https://github.com/tpwls9494/SKN_Family_project/tree/main/nlp/03_word_embedding)
+  - [Transformer 아키텍처](https://github.com/tpwls9494/SKN_Family_project/tree/main/nlp/04_sentiment_analysis)
 
 ### 예정된 학습 (Coming Soon)
 - **LLM과 프롬프트 엔지니어링** (3월)
@@ -61,8 +61,6 @@
 ## 🚀 프로젝트
 
 ### 1. 데이터 수집 및 저장 파이프라인 (2025.01)
-[프로젝트 폴더](./project_1) | [데모](링크)
-
 **개요**: 웹 크롤링을 통해 데이터를 수집하고, 전처리 후 데이터베이스에 저장하는 자동화 파이프라인 구축
 
 **사용 기술**: Python, BeautifulSoup, Selenium, SQLite
@@ -79,7 +77,7 @@
 - 자동화 스크립트 개발과 에러 핸들링
 
 ### 2. 이미지 분류 시스템 (2025.02)
-[프로젝트 폴더](./project_2) | [데모](링크)
+[프로젝트 폴더](https://github.com/tpwls9494/SKN_Family_project/tree/main/project_2)
 
 **개요**: 딥러닝 모델을 활용한 이미지 분류 시스템 개발
 
