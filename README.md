@@ -19,39 +19,39 @@
 
 ### Phase 1: 프로그래밍과 데이터 기초 (2024.12.18 ~ 2025.01.08)
 - **Python 프로그래밍**
-  - [기본 문법과 자료구조](https://github.com/tpwls9494/SKN_Family_project/tree/main/python_basic-main/01_basic)
-  - [함수와 클래스](https://github.com/tpwls9494/SKN_Family_project/tree/main/python_basic-main/02_function)
-  - [데이터 처리](https://github.com/tpwls9494/SKN_Family_project/tree/main/python_basic-main/03_data_structure)
+  - [기본 문법과 자료구조](https://github.com/tpwls9494/SKN_Family_project/tree/main/python_basic-main)
+  - [함수와 클래스](https://github.com/tpwls9494/SKN_Family_project/tree/main/python_basic-main)
+  - [데이터 처리](https://github.com/tpwls9494/SKN_Family_project/tree/main/python_basic-main)
 - **데이터베이스**
-  - SQL 기초
-  - 데이터 모델링
+  - [SQL 기초](https://github.com/tpwls9494/SKN_Family_project/tree/main/python_basic-main)
+  - [데이터 모델링](https://github.com/tpwls9494/SKN_Family_project/tree/main/python_basic-main)
 - **웹 크롤링**
-  - BeautifulSoup 활용
-  - Selenium 자동화
+  - [BeautifulSoup 활용](https://github.com/tpwls9494/SKN_Family_project/tree/main/web_crawing-main)
+  - [Selenium 자동화](https://github.com/tpwls9494/SKN_Family_project/tree/main/web_crawing-main)
 - **Mini Project**: 데이터 수집 및 저장 파이프라인
 
 ### Phase 2: 데이터 분석과 머신러닝, 딥러닝 (2025.01.09 ~ 2025.02.14)
 - **데이터 분석**
-  - [NumPy 기초](https://github.com/tpwls9494/SKN_Family_project/tree/main/ML-WORKSPACE/01_numpy)
-  - [Pandas 활용](https://github.com/tpwls9494/SKN_Family_project/tree/main/ML-WORKSPACE/02_pandas)
-  - [데이터 시각화](https://github.com/tpwls9494/SKN_Family_project/tree/main/ML-WORKSPACE/03_visualization)
+  - [NumPy 기초](https://github.com/tpwls9494/SKN_Family_project/tree/main/DATA-ANALYSIS/01_numpy)
+  - [Pandas 활용](https://github.com/tpwls9494/SKN_Family_project/tree/main/DATA-ANALYSIS/02_pandas)
+  - [데이터 시각화](https://github.com/tpwls9494/SKN_Family_project/tree/main/DATA-ANALYSIS/03_matplotlib)
 - **머신러닝**
-  - [지도학습 알고리즘](https://github.com/tpwls9494/SKN_Family_project/tree/main/ML-WORKSPACE/04_machine_learning)
-  - [비지도학습 알고리즘](https://github.com/tpwls9494/SKN_Family_project/tree/main/ML-WORKSPACE/04_machine_learning)
-  - [모델 평가 및 최적화](https://github.com/tpwls9494/SKN_Family_project/tree/main/ML-WORKSPACE/05_ensemble)
+  - [지도학습 알고리즘](https://github.com/tpwls9494/SKN_Family_project/tree/main/ML-WORKSPACE)
+  - [비지도학습 알고리즘](https://github.com/tpwls9494/SKN_Family_project/tree/main/ML-WORKSPACE)
+  - [모델 평가 및 최적화](https://github.com/tpwls9494/SKN_Family_project/tree/main/ML-WORKSPACE)
 - **딥러닝**
-  - [신경망 기초](https://github.com/tpwls9494/SKN_Family_project/tree/main/ML-WORKSPACE/06_deep_learning)
+  - [신경망 기초](https://github.com/tpwls9494/SKN_Family_project/tree/main/dl_basic)
   - CNN 모델
   - RNN 모델
 - **Mini Project**: [이미지 분류 시스템](https://github.com/tpwls9494/SKN_Family_project/tree/main/project_2)
 
 ### Phase 3: 자연어 처리와 LLM (2025.02.17 ~ 현재 진행중)
 - **자연어 처리 기초**
-  - [텍스트 전처리](https://github.com/tpwls9494/SKN_Family_project/tree/main/nlp/01_basics)
-  - [워드 임베딩](https://github.com/tpwls9494/SKN_Family_project/tree/main/nlp/02_preprocessing)
+  - [텍스트 전처리](https://github.com/tpwls9494/SKN_Family_project/tree/main/nlp)
+  - [워드 임베딩](https://github.com/tpwls9494/SKN_Family_project/tree/main/nlp)
 - **자연어 딥러닝** (진행중)
-  - [RNN/LSTM 모델](https://github.com/tpwls9494/SKN_Family_project/tree/main/nlp/03_word_embedding)
-  - [Transformer 아키텍처](https://github.com/tpwls9494/SKN_Family_project/tree/main/nlp/04_sentiment_analysis)
+  - [RNN/LSTM 모델](https://github.com/tpwls9494/SKN_Family_project/tree/main/nlp)
+  - [Transformer 아키텍처](https://github.com/tpwls9494/SKN_Family_project/tree/main/nlp)
 
 ### 예정된 학습 (Coming Soon)
 - **LLM과 프롬프트 엔지니어링** (3월)
@@ -102,11 +102,10 @@
 - [ ] **Phase 5**: 종합 프로젝트 (예정)
 
 ## 🔗 연락처 및 소셜 미디어
-- **Email**: [이메일 주소]
-- **LinkedIn**: [링크드인 프로필]
-- **Portfolio**: [개인 웹사이트/포트폴리오]
-- **GitHub**: [GitHub 프로필]
+- **Email**: tpwls9494@naver.com
+- **Portfolio**: github.com/tpwls9494
+- **GitHub**: github.com/tpwls9494
 
 ## 📜 학습 자료
-- [SKN Family AI 부트캠프](링크)
+- [SKN Family AI 부트캠프](https://networks-aicamp.io/)
 - [Notion 학습 노트](https://www.notion.so/AI-1604984a35a4800ebf59ee3a20f0f39d)
