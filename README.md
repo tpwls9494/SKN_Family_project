@@ -41,9 +41,7 @@
   - [모델 평가 및 최적화](https://github.com/tpwls9494/SKN_Family_project/tree/main/ML-WORKSPACE)
 - **딥러닝**
   - [신경망 기초](https://github.com/tpwls9494/SKN_Family_project/tree/main/dl_basic)
-  - CNN 모델
-  - RNN 모델
-- **Mini Project**: [이미지 분류 시스템](https://github.com/tpwls9494/SKN_Family_project/tree/main/project_2)
+- **Mini Project**: [삼성 스마트폰 이탈자](https://github.com/tpwls9494/SKN_Family_project/tree/main/project_2)
 
 ### Phase 3: 자연어 처리와 LLM (2025.02.17 ~ 현재 진행중)
 - **자연어 처리 기초**
