@@ -1,1 +1,2 @@
 nlp/07_seq2seq/decoder_teacher_forcing_model.keras
+*.env
